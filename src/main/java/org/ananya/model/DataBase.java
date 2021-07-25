@@ -9,6 +9,7 @@ public class DataBase {
     }
 
 
+
     public DoctorContainer getDoctorContainer(){
         return this.doctorContainer;
     }
